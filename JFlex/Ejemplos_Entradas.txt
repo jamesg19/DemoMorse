@@ -1,0 +1,28 @@
+// comentario lenguaje 3
+
+// ba abbbb bbbbaa bbbbaaabbb
+
+// comentario lenguaje 6
+
+ab aabbb bbbbbaaa  aaabbbbbbbaaaa
+
+// comentario lenguaje 8
+0.323 45.3 5345.00003 10.560
+
+
+/*comentario de bloque 1*/
+
+/*
+comentario de bloque
+2
+*/
+
+/***** comentario bloque 3 **************/
+
+/***
+    * un
+    * comentario de bloque/*****
+    * de varias lineas
+***/
+
+z ?
